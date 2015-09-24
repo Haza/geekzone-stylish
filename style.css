@@ -1,0 +1,48 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,700,700italic);
+    
+body {
+    background-color: rgb(235, 235, 235)
+}
+
+html {
+    font-family: "Open Sans", Helvetica,Arial,sans-serif;
+}
+
+#main-outlet {
+    background-color: white;
+}
+
+.topic-body {
+    background-color:#f6f6f6;
+    border-radius: 5px;
+    border: 1px solid #ececec;
+    margin: 10px;
+    box-shadow: 1px 1px 10px #ccc;
+}
+
+.post-menu-area {
+    margin-bottom: 0;
+}
+
+.quote .title {
+    border-left: 3px solid #ddd !important;
+    border-right: 3px solid #ddd;
+    border-top: 1px solid #ddd;
+    background-color: #fff !important;
+}
+
+blockquote {
+    background-color: #fff; 
+    border-left: 3px solid #ddd;
+    border-right: 3px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+
+.topic-avatar {
+    border-top: none;
+}
+
+a.mention {
+    background-color: #BBD3DD;
+}
+
