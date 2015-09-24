@@ -46,3 +46,9 @@ a.mention {
     background-color: #BBD3DD;
 }
 
+.reply-to-tab {
+    background-color: #BBD3DD;
+    padding: 0.35em;
+    border-radius: 5px;
+    color: #555 !important;
+}
