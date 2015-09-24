@@ -17,7 +17,7 @@ html {
     border-radius: 5px;
     border: 1px solid #ececec;
     margin: 10px;
-    box-shadow: 1px 1px 10px #ccc;
+    box-shadow: 6px 6px 6px -4px rgba(57, 57, 57, 0.4);
 }
 
 .post-menu-area {
